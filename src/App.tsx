@@ -42,7 +42,7 @@ const App = () => {
 
   const limpaNomes = (event: React.FormEvent) => {
     event.preventDefault();
-    setNomes([]);
+    setNomes([]); 
     setSorteados([]);
     inputRef.current?.focus();
   }

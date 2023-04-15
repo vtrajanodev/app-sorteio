@@ -18,12 +18,18 @@ h1 {
  font-size: 18px;
 }
 
+form {
+  overflow: hidden;
+}
+
 input {
   width: 200px;
   padding: 6px;
   border-radius: 4px;
   margin-right: 14px;
   border: none;
+
+  overflow: hidden;
   
 }
 

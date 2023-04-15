@@ -1,0 +1,38 @@
+body {
+  background-color: #ccc;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+input {
+  width: 300px;
+  padding: 6px;
+  border-radius: 4px;
+  margin-right: 14px;
+  border: none;
+  
+}
+
+button {
+  margin-right: 8px;
+  width: 100px;
+  height: 27px;
+
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(231, 231, 231);
+}
+
+.initialButtons input::placeholder {
+  font-weight: bold;
+  padding-left: 4px;
+  font-style: italic;
+}
+
+.initialButtons input {
+  font-weight: bold;
+}

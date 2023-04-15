@@ -20,6 +20,10 @@ input {
   
 }
 
+p {
+  font-size: 12px;
+}
+
 button {
   margin-right: 8px;
   width: 100px;

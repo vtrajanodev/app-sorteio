@@ -18,9 +18,6 @@ h1 {
  font-size: 18px;
 }
 
-form {
-  overflow: hidden;
-}
 
 input {
   width: 200px;
@@ -29,7 +26,6 @@ input {
   margin-right: 14px;
   border: none;
 
-  overflow: hidden;
   
 }
 

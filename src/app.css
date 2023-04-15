@@ -9,6 +9,10 @@ body {
   overflow-x: hidden;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 h1 {
  font-size: 18px;
 }
